@@ -1,0 +1,134 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: #000000;
+}
+
+.Intro-section {
+    height: 100vh;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 281px;
+    width: 57%;
+    padding: 45px;
+}
+
+.Intro-section h1{
+    font-size: 40px;
+
+}
+
+.Intro-section {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.Intro-section  p {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.steps-section {
+    color: white;
+    text-align: center;
+    margin-top: 109px;
+    margin-left: 281px;
+    width: 57%;
+    padding: 45px;
+    border: 3px solid white;
+    border-radius: 22px;
+}
+
+.steps-section:hover {
+    border: 5px solid black;
+    transition: 0.4s ease-in-out;
+}
+
+.steps-section h1{
+    font-size: 40px;
+
+}
+
+.steps-section {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.steps-section  p {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.arrow-img {
+    width: 765px;
+    height: 165px;
+    margin-left: 290px;
+}
+
+.steps-section-1 {
+    color: white;
+    text-align: center;
+    margin-left: 281px;
+    width: 57%;
+    padding: 45px;
+    border: 3px solid white;
+    border-radius: 22px;
+}
+
+.steps-section-1:hover {
+    border: 5px solid black;
+    transition: 0.4s ease-in-out;
+}
+
+.steps-section-1 h1{
+    font-size: 40px;
+
+}
+
+.steps-section-1 {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.steps-section-1 p {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.steps-section em {
+    font-style: normal;
+    color: yellowgreen;
+}
+
+.steps-section-1 em {
+    font-style: normal;
+    color: yellowgreen;
+}
+
+.pr-merged-img {
+    width: 435px;
+    height: 365px;
+    margin-left: 425px;
+    margin-bottom: 90px;
+}
+
+footer {
+    color: white;
+    height: 70px;
+    font-family: 'Architects Daughter', cursive;
+
+}
+
+footer p {
+    padding: 9px;
+    font-size: 17px;
+    text-align: center;
+}
+
+footer p a {
+    color: white;
+    text-decoration: none;
+}
