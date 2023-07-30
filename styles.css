@@ -40,14 +40,8 @@ body {
     margin-left: 281px;
     width: 57%;
     padding: 45px;
-    border: 3px solid white;
-    border-radius: 22px;
 }
 
-.steps-section:hover {
-    border: 5px solid black;
-    transition: 0.4s ease-in-out;
-}
 
 .steps-section h1{
     font-size: 40px;
@@ -75,14 +69,10 @@ body {
     margin-left: 281px;
     width: 57%;
     padding: 45px;
-    border: 3px solid white;
-    border-radius: 22px;
+    
 }
 
-.steps-section-1:hover {
-    border: 5px solid black;
-    transition: 0.4s ease-in-out;
-}
+
 
 .steps-section-1 h1{
     font-size: 40px;
