@@ -120,7 +120,7 @@ footer p {
 
 footer p a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .article-1-section {
